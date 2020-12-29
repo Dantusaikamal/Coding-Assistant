@@ -2,7 +2,7 @@
 
 An app that provides handcrafted Lectures and Roadmaps that makes learning programming easy and fun.
 
-Made using React native. Will update the further documentation soon.
+Made using React native.
 
 More courses and lecture videos coming soon!
 
