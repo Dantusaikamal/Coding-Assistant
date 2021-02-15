@@ -1,6 +1,6 @@
 # Coding Assitant
 
-An app that provides handcrafted Lectures and Roadmaps that makes learning programming easy and fun.
+An app that contains handcrafted Lectures and Roadmaps that makes learning programming easy and fun.
 
 Made using React native.
 
