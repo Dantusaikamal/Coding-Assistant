@@ -29,4 +29,4 @@ Here's a preview of the app:
 + Git Essentials
 
 
-*Project under development
+*Project still under development
