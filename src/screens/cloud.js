@@ -106,7 +106,7 @@ export default class cloud extends React.Component{
                                 color:"#345c74",
                                 fontFamily:"Bold",
                                 fontSize:18
-                            }}>Sai Kamal</Text>
+                            }}>Dantu Sai Kamal</Text>
                             <Text style={{
                                 color:"#f58084",
                                 fontFamily:"Medium",
