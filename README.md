@@ -18,13 +18,15 @@ Here's a preview of the app:
 
 + MERN STACK development
 
++ Data Structures
+
++ Objected Oriented Programming
+ 
 + Web design using Figma
 
 + UI/ UX using Adobe Xd
 
 + Machine Learning using Python
-
-+ Cloud computing
 
 + Git Essentials
 
